@@ -1,3 +1,2 @@
-# Go Study
-
-## Go Document
+#Go Study
+# Go Document
